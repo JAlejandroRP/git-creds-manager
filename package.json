@@ -1,0 +1,16 @@
+{
+  "name": "git-creds-manager",
+  "version": "1.0.0",
+  "description": "cli app to manage git credentials",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
